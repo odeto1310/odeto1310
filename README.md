@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20odeto1310%20&&animation=scaleIn)
 
 ## Hi there 👋
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=odeto1310)](https://github.com/odeto1310)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeto1310)](https://github.com/odeto1310/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeto1310&layout=compact)](https://github.com/odeto1310/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeto1310 &layout=compact)](https://github.com/odeto1310/github-readme-stats)
+
 
 <!--
 **odeto1310/odeto1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
