@@ -4,7 +4,7 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=odeto1310)](https://github.com/odeto1310)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeto1310)](https://github.com/odeto1310/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeto1310&layout=compact)](https://github.com/odeto1310/github-readme-stats)
+(https://github.com/odeto1310/github-readme-stats)
 
 
 
